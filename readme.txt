@@ -11,6 +11,6 @@
 3. java-json.jar 依赖的json库
 
 注意：
-1。 本工程为eclipse工程，可以导入eclipse中直接打开
+1. 本工程为eclipse工程，可以导入eclipse中直接打开
 2. 开发运行环境为 javase-1.6
 3. 需要导入java-json.jar[已包含]
